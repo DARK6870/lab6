@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "R0JkaxqAFhEHwZgCsBIDe2d4zCnO/JB2/BN1MEERzv66Byg/56Z54EMlhos4eeP1m9pbSCBlcafuAfCKbGqPGw==",
+  "success": true,
+  "projectFilePath": "D:\\GIT\\lab6\\lab6\\lab6\\lab6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tsymb\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\tsymb\\.nuget\\packages\\accord.machinelearning\\3.8.0\\accord.machinelearning.3.8.0.nupkg.sha512",
+    "C:\\Users\\tsymb\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",
+    "C:\\Users\\tsymb\\.nuget\\packages\\accord.statistics\\3.8.0\\accord.statistics.3.8.0.nupkg.sha512",
+    "C:\\Users\\tsymb\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\tsymb\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\tsymb\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

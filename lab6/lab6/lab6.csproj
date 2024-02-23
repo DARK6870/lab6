@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>ghost_4109.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ghost_4109.png" />
+    <None Remove="src\cloud.png" />
+    <None Remove="src\coo.png" />
+    <None Remove="src\drop.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="ghost_4109.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Accord" Version="3.8.0" />
+    <PackageReference Include="Accord.MachineLearning" Version="3.8.0" />
+    <PackageReference Include="Accord.Math" Version="3.8.0" />
+    <PackageReference Include="MaterialDesignColors" Version="2.1.4" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="ghost_4109.png" />
+    <Resource Include="src\cloud.png" />
+    <Resource Include="src\coo.png" />
+    <Resource Include="src\drop.png" />
+  </ItemGroup>
+
+</Project>
